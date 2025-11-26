@@ -1,4 +1,5 @@
 #Games blocklist for school and education
+#Based on IREK-szef's work
 
 01-casino.com
 01-chase.com
@@ -2958,6 +2959,7 @@ icefighter.de
 icewars.de
 icivics.org
 iconoclast.org
+id.net
 idealys-entertainment.com
 ideo-lejeu.com
 idiotcoder.com
