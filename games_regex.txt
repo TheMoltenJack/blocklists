@@ -1,7 +1,7 @@
 #Games blocklist for school and education
 #Based on IREK-szef's work
 
-
+.*bitlife.*
 .*game.*
 .*giochi.*
 .*gioco.*
