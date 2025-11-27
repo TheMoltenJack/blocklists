@@ -27,6 +27,7 @@
 ^fun.*
 ^game.*
 ^gaming.*
+^gombis.*
 ^gier.*
 ^karcian.*
 ^mine.*
