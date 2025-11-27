@@ -2,6 +2,7 @@
 #Based on IREK-szef's work
 
 .*bitlife.*
+.*coolubg.*
 .*game.*
 .*giochi.*
 .*gioco.*
