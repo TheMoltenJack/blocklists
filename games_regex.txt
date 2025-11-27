@@ -9,6 +9,8 @@
 .*juego.*
 .*pizza-edition.*
 .*pizzaedition.*
+.*polytrack.*
+.*poly-track.*
 .*porn.*
 .*wordimpostor.*
 ^2048.*
