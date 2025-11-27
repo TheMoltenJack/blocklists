@@ -2,6 +2,7 @@
 #Based on IREK-szef's work
 
 .*1v1lol.*
+.*1v1-lol.*
 .*bitlife.*
 .*coolubg.*
 .*game.*
